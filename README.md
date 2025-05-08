@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate data scientist from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benbrooke450&label=Profile%20views&color=0e75b6&style=flat" alt="benbrooke450" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benbrooke450" alt="benbrooke450" /></a> </p>
 
 - 📫 How to reach me **Bensir@mai.com**
 
