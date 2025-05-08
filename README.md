@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Databricks_logo.svg/2560px-Databricks_logo.svg.png" height="40" alt="Databricks Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Databricks_Logo.png" height="40" alt="Databricks"/>
 </p>
 
 
