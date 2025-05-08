@@ -7,7 +7,16 @@
   </a>
 </div>
 
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="Databricks"/>
+</p>
 
 
 ## Deep Learning & LLMs
@@ -45,3 +54,5 @@
 [![EV Incidents](https://img.shields.io/badge/Databricks-EV%20Incidents-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Electric-Vehicle-Incidents)
 [![Formula 1](https://img.shields.io/badge/Databricks-Formula%201-DA1E37?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Formula1)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BenBrooke450.BenBrooke450)
