@@ -34,7 +34,7 @@
 - Understanding of model deployment workflows and best practices
 - Classical machine learning techniques and experiments.
   
-[![Repo](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/benbrooke/scikit-learn-projects)
+[![Scikit-Learn](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/benbrooke/scikit-learn-projects)
 
 
 ## Data Engineering & Platforms
