@@ -56,5 +56,3 @@
 [![EV Incidents](https://img.shields.io/badge/Databricks-EV%20Incidents-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Electric-Vehicle-Incidents)
 [![Formula 1](https://img.shields.io/badge/Databricks-Formula%201-DA1E37?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Formula1)
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BenBrooke450.BenBrooke450)
