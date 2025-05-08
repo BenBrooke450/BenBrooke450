@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A passionate data scientist from the UK, specializing in machine learning, neural networks, and big data solutions. Always pushing the boundaries of AI to solve real-world problems.</h3>
+<h3 align="center">A passionate data scientist from the UK, specializing in machine learning, neural networks, and big data solutions.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamin-brooke-097063159">
