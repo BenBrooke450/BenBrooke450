@@ -28,7 +28,7 @@
 - Building and evaluating machine learning models with Scikit-learn
 - Understanding of model deployment workflows and best practices
 - Classical machine learning techniques and experiments.
-- [ML with Scikit-learn]([https://github.com/benbrooke/scikit-learn-projects)
+- [ML with Scikit-learn](https://github.com/benbrooke/scikit-learn-projects)
 
 
 ## Data Engineering & Platforms
