@@ -22,6 +22,13 @@
 
 </p>
 
+## Classical Machine Learning & MLOps
+- Building and evaluating machine learning models with Scikit-learn
+- Understanding of model deployment workflows and best practices
+- Classical machine learning techniques and experiments.
+  
+[![Scikit-Learn](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/benbrooke/scikit-learn-projects)
+
 
 ## Deep Learning & LLMs
 - Exploring the theory and application of neural networks and deep learning models
@@ -40,14 +47,6 @@
   
 [![Python](https://img.shields.io/badge/Python-Repository-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/BenBrooke450/Python)
 [![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/BenBrooke450/Python-NumPy)
-
-
-## Classical Machine Learning & MLOps
-- Building and evaluating machine learning models with Scikit-learn
-- Understanding of model deployment workflows and best practices
-- Classical machine learning techniques and experiments.
-  
-[![Scikit-Learn](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/benbrooke/scikit-learn-projects)
 
 
 ## Data Engineering & Platforms
