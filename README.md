@@ -27,7 +27,7 @@
 - Understanding of model deployment workflows and best practices
 - Classical machine learning techniques and experiments.
   
-[![Scikit-Learn](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/benbrooke/scikit-learn-projects)
+[![Scikit-Learn](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/BenBrooke450/Python-Scikit-Learn)
 
 
 ## Deep Learning & LLMs
