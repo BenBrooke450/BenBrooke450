@@ -47,6 +47,7 @@
   
 [![Python](https://img.shields.io/badge/Python-Repository-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/BenBrooke450/Python)
 [![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/BenBrooke450/Python-NumPy)
+[![R Programming](https://img.shields.io/badge/NumPy-Arrays-013243?style=for-the-badge&logo=R&logoColor=white)](https://github.com/BenBrooke450/R_Programming)
 
 
 ## Data Engineering & Platforms
