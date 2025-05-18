@@ -30,16 +30,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/ML%20Project-Scikit--learn-blue?style=for-the-badge&logo=github)](https://github.com/BenBrooke450/Python-Scikit-Learn)
 
 
-## Deep Learning & LLMs
-- Exploring the theory and application of neural networks and deep learning models
-- Actively studying transformer architectures and large language models (LLMs)
-- Experimenting with training and fine-tuning models for various NLP tasks
-- Developing deep learning models using Keras and TensorFlow
-  
-[![IBM AI](https://img.shields.io/badge/IBM%20AI%20Engineering-Certificate-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/BenBrooke450/IBM-AI-Engineering)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/benbrooke/scikit-learn-projects)
-[![Keras](https://img.shields.io/badge/Keras-Neural%20Nets-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/BenBrooke450/Python-Keras)
-
 ## Python & Data Analysis
 - Proficient in Python for data science and automation
 - Experienced with libraries like NumPy, Pandas, and Plotly for data manipulation and visualization
@@ -50,7 +40,6 @@
 [![R Programming](https://img.shields.io/badge/R-Programming-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://github.com/BenBrooke450/R_Programming)
 
 
-
 ## Data Engineering & Platforms
 - Hands-on experience with Databricks, including Spark and Delta Lake
 - Certified in Databricks data engineering tools and platforms
@@ -58,4 +47,17 @@
 [![PySpark](https://img.shields.io/badge/PySpark-Distributed%20Computing-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black)](https://github.com/BenBrooke450/Python-PySpark)
 [![EV Incidents](https://img.shields.io/badge/Databricks-EV%20Incidents-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Electric-Vehicle-Incidents)
 [![Formula 1](https://img.shields.io/badge/Databricks-Formula%201-DA1E37?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Formula1)
+
+
+## Deep Learning & LLMs
+- Exploring the theory and application of neural networks and deep learning models
+- Actively studying transformer architectures and large language models (LLMs)
+- Experimenting with training and fine-tuning models for various NLP tasks
+- Developing deep learning models using Keras and TensorFlow
+  
+[![IBM AI](https://img.shields.io/badge/IBM%20AI%20Engineering-Certificate-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/BenBrooke450/IBM-AI-Engineering)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/benbrooke/scikit-learn-projects)
+[![Keras](https://img.shields.io/badge/Keras-Neural%20Nets-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/BenBrooke450/Python-Keras)
+
+
 
