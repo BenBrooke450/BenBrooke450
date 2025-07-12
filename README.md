@@ -22,6 +22,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="PySpark"/>
 </p>
 
+## Deep Learning & LLMs
+- Exploring the theory and application of neural networks and deep learning models
+- Actively studying transformer architectures and large language models (LLMs)
+- Experimenting with training and fine-tuning models for various NLP tasks
+- Developing deep learning models using Keras and TensorFlow
+
+[![Blue Ocean LLM](https://img.shields.io/badge/Blue%20Ocean%20LLM-Project-1E90FF?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/BenBrooke450/BlueOcean-LLM)
+[![Big Fun AI Projects](https://img.shields.io/badge/Big%20Fun%20AI%20Projects-CNN%20%26%20RNN-brightgreen?style=plastic&logo=brain&logoColor=purple)](https://github.com/BenBrooke450/Big_Fun_AI_Projects_CNN_RNN)
+[![IBM AI](https://img.shields.io/badge/IBM%20AI%20Engineering-Certificate-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/BenBrooke450/IBM-AI-Engineering)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/benbrooke/scikit-learn-projects)
+[![Keras](https://img.shields.io/badge/Keras-Neural%20Nets-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/BenBrooke450/Python-Keras)
+
+
 ## Classical Machine Learning & MLOps
 - Building and evaluating machine learning models with Scikit-learn
 - Understanding of model deployment workflows and best practices
@@ -48,17 +61,6 @@
 [![EV Incidents](https://img.shields.io/badge/Databricks-EV%20Incidents-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Electric-Vehicle-Incidents)
 [![Formula 1](https://img.shields.io/badge/Databricks-Formula%201-DA1E37?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Formula1)
 
-
-## Deep Learning & LLMs
-- Exploring the theory and application of neural networks and deep learning models
-- Actively studying transformer architectures and large language models (LLMs)
-- Experimenting with training and fine-tuning models for various NLP tasks
-- Developing deep learning models using Keras and TensorFlow
-
-[![Blue Ocean LLM](https://img.shields.io/badge/Blue%20Ocean%20LLM-Project-1E90FF?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/BenBrooke450/BlueOcean-LLM)
-[![IBM AI](https://img.shields.io/badge/IBM%20AI%20Engineering-Certificate-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/BenBrooke450/IBM-AI-Engineering)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/benbrooke/scikit-learn-projects)
-[![Keras](https://img.shields.io/badge/Keras-Neural%20Nets-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/BenBrooke450/Python-Keras)
 
 
 
