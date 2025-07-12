@@ -65,5 +65,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BenBrooke450&count_bg=%2379C83D&title_bg=%23555555&icon=github&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)
 
+![Visitor Count](https://profile-counter.glitch.me/{BenBrooke450}/count.svg)
+
 
 
