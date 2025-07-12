@@ -62,6 +62,4 @@
 [![Formula 1](https://img.shields.io/badge/Databricks-Formula%201-DA1E37?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/BenBrooke450/Project-Databricks-Formula1)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenBrooke450&show_icons=true&theme=radical)
-
 
