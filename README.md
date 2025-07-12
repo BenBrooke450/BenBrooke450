@@ -29,7 +29,7 @@
 - Developing deep learning models using Keras and TensorFlow
 
 [![Blue Ocean LLM](https://img.shields.io/badge/Blue%20Ocean%20LLM-Project-1E90FF?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/BenBrooke450/BlueOcean-LLM)
-[![Big Fun AI Projects](https://img.shields.io/badge/Big%20Fun%20AI%20Projects-CNN%20%26%20RNN-brightgreen?style=plastic&logo=brain&logoColor=purple)](https://github.com/BenBrooke450/Big_Fun_AI_Projects_CNN_RNN)
+[![Big Fun AI Projects](https://img.shields.io/badge/Big%20Fun%20AI%20Projects-CNN%20%26%20RNN-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/BenBrooke450/Big_Fun_AI_Projects_CNN_RNN)
 [![IBM AI](https://img.shields.io/badge/IBM%20AI%20Engineering-Certificate-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/BenBrooke450/IBM-AI-Engineering)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/benbrooke/scikit-learn-projects)
 [![Keras](https://img.shields.io/badge/Keras-Neural%20Nets-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/BenBrooke450/Python-Keras)
